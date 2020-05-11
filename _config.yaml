@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Tils
+markdown: GFM
+github:
+  is_project_page: true
